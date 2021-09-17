@@ -13,4 +13,4 @@ function registerCash(itemsPrice, payment) {
 
 }
 
-console.log("result:",registerCash(itemsPrice, 10))
+console.log("result lol:",registerCash(itemsPrice, 10))
